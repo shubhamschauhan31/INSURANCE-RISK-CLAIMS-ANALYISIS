@@ -1,0 +1,15 @@
+The Insurance Risk & Claims Analysis dashboard provides a comprehensive overview of policy distribution, customer demographics,
+and claim patterns across approximately 30.1K insurance policies, with a total claim amount of about 150M and an average claim amount of around 5K.
+The gender distribution of policyholders is nearly balanced, with approximately 15.1K female and 15K male customers.
+Most policies are associated with private vehicle use (around 30K), while a smaller portion relates to commercial vehicles (about 7K). In terms of vehicle brands,
+Ford leads with about 2.7K policies, followed by Chevrolet (2.3K) and other manufacturers such as Dodge, Toyota, and GMC.
+Age group analysis shows that the majority of policies fall within the 26–65 age range, each group holding roughly 5.6K–5.7K policies,
+while younger drivers (15–25) represent a smaller share. Coverage zones are fairly evenly distributed across urban, suburban, rural, highly urban,
+and highly rural areas, each contributing close to 6K policies, indicating balanced geographic coverage.
+The analysis of vehicle manufacturing years shows policy growth from the early 1990s to the mid-2010s,
+peaking around 2016–2018, followed by a noticeable decline in the most recent year of data. Education-level insights reveal that Bachelor’s
+degree holders account for the largest proportion of policies (about 15K), followed by High School (~8K) and Master’s (~5K),
+with a smaller segment holding PhDs. Additionally, most policyholders have no kids driving (around 21K), while households with one or 
+more young drivers form a significantly smaller share. The dataset fields—including customer demographics, vehicle information,
+claim frequency, claim amount, household income, and family characteristics—support detailed risk profiling and help insurers identify segments 
+associated with higher claim frequencies and financial exposure, enabling better decision-making in underwriting and policy management.
